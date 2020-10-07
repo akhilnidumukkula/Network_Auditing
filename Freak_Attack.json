@@ -1,0 +1,54 @@
+[
+    {
+        "location.country": "United States",
+        "location.registered_country": "United States",
+        "location.longitude": -78.5977,
+        "location.city": "Garner",
+        "ip": "152.1.220.152",
+        "location.registered_country_code": "US",
+        "location.country_code": "US",
+        "location.latitude": 35.6828,
+        "location.province": "North Carolina",
+        "location.continent": "North America",
+        "location.postal_code": "27529",
+        "protocols": [
+            "443/https"
+        ],
+        "location.timezone": "America/New_York"
+    },
+    {
+        "location.country": "United States",
+        "location.registered_country": "United States",
+        "location.longitude": -78.71,
+        "location.city": "Raleigh",
+        "ip": "152.1.52.127",
+        "location.registered_country_code": "US",
+        "location.country_code": "US",
+        "location.latitude": 35.7633,
+        "location.province": "North Carolina",
+        "location.continent": "North America",
+        "location.postal_code": "27606",
+        "protocols": [
+            "443/https",
+            "22/ssh",
+            "80/http"
+        ],
+        "location.timezone": "America/New_York"
+    },
+    {
+        "location.country": "United States",
+        "location.registered_country": "United States",
+        "location.longitude": -97.822,
+        "location.continent": "North America",
+        "ip": "152.1.109.5",
+        "location.registered_country_code": "US",
+        "location.country_code": "US",
+        "location.latitude": 37.751,
+        "protocols": [
+            "443/https",
+            "22/ssh",
+            "80/http"
+        ],
+        "location.timezone": "America/Chicago"
+    }
+]
