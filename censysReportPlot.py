@@ -1,5 +1,5 @@
 import censys.ipv4
-from constants import AKHIL_API_ID, AKHIL_API_SECRET, IP_RANGE
+from constants import CENSYS_API_ID, CENSYS_API_SECRET, IP_RANGE
 import plotly.graph_objects as graph
 
 

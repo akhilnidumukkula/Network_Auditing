@@ -1,6 +1,6 @@
 import censys.ipv4
 import json
-from constants import RADHIKA_API_SECRET, RADHIKA_API_ID, IP_RANGE
+from constants import CENSYS_API_SECRET, CENSYS_API_ID, IP_RANGE
 
 c = censys.ipv4.CensysIPv4(RADHIKA_API_ID, RADHIKA_API_SECRET)
 
