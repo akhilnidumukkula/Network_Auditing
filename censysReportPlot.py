@@ -3,7 +3,7 @@ from constants import CENSYS_API_ID, CENSYS_API_SECRET, IP_RANGE
 import plotly.graph_objects as graph
 
 
-censysHandle = censys.ipv4.CensysIPv4(api_id=AKHIL_API_ID, api_secret=AKHIL_API_SECRET)
+censysHandle = censys.ipv4.CensysIPv4(api_id=CENSYS_API_ID, api_secret=CENSYS_API_SECRET)
 
 for subnet in IP_RANGE:
     osList = []
