@@ -2,7 +2,7 @@ import censys.ipv4
 import json
 from constants import CENSYS_API_SECRET, CENSYS_API_ID, IP_RANGE
 
-c = censys.ipv4.CensysIPv4(RADHIKA_API_ID, RADHIKA_API_SECRET)
+c = censys.ipv4.CensysIPv4(CENSYS_API_ID, CENSYS_API_SECRET)
 
 
 def extract_info(attack, query):
