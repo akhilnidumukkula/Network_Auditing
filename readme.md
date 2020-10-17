@@ -1,4 +1,4 @@
-**ReadMe for Mini-Project 2 (Network Auditing):**
+**ReadMe for Network Auditing:**
 
 1. Make sure Python is installed on the test bed.
 2. Install the required libraries using _"pip install -r requirements.txt"_
